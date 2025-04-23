@@ -33,7 +33,7 @@ _Nota: el análisis incluye un mapa de calor interactivo con el volumen de venta
 ## Cómo Ejecutar el Análisis
 
 1. Clona este repositorio en tu máquina local.
-2. Abre el notebook `notebook.ipynb` en Google Colab o Jupyter Notebook.
+2. Abre el notebook `AluraStoreLatam.ipynb` en Google Colab o Jupyter Notebook.
 3. Ejecuta las celdas del notebook para realizar el análisis.
 
 ## Autor
