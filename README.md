@@ -24,8 +24,9 @@ _Nota: el análisis incluye un mapa de calor interactivo con el volumen de venta
 ## Contenido del Repositorio
 
 * `notebook.ipynb`: Notebook de Jupyter con el código y análisis completo.
-* `data/`: Carpeta con los archivos de datos utilizados en el análisis.
-* `informe.md`: Informe final con los resultados y recomendaciones.
+* `base-de-datos-challenge1-latam`: Carpeta con los archivos de datos utilizados en el análisis.
+<!-- * `informe.md`: Informe final con los resultados y recomendaciones. -->
+
 
 ## Cómo Ejecutar el Análisis
 
