@@ -23,8 +23,9 @@ _Nota: el análisis incluye un mapa de calor interactivo con el volumen de venta
 
 ## Contenido del Repositorio
 
-* `notebook.ipynb`: Notebook de Jupyter con el código y análisis completo.
+* `AluraStoreLatam.ipynb`: Notebook de Jupyter con el código y análisis completo.
 * `base-de-datos-challenge1-latam`: Carpeta con los archivos de datos utilizados en el análisis.
+* `Read.me`: Este archivo con descripción del repositorio.
 <!-- * `informe.md`: Informe final con los resultados y recomendaciones. -->
 
 
