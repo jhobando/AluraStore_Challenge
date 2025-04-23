@@ -7,6 +7,8 @@ Este repositorio contiene un análisis de las ventas, costos de envío y calific
 
 Se analizaron datos de ventas de cuatro tiendas, incluyendo información sobre productos, precios, costos de envío, calificaciones y ubicación geográfica de las compras. Se utilizaron técnicas de análisis de datos y visualización para obtener insights relevantes sobre el rendimiento de cada tienda.
 
+_Nota: el análisis incluye un mapa de calor interactivo con el volumen de venta por lugares, se desplegará al ejecutar el notebook_
+
 ## Hallazgos Clave
 
 * La tienda 4 presenta las ventas netas más bajas y sus productos más vendidos podrían ser suplidos por las demás tiendas.
